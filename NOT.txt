@@ -1,0 +1,1 @@
+xampp ayarlarýndan hata almamak için short tag kýsmýný ON yapmanýz gerekiyor

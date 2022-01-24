@@ -1,0 +1,16 @@
+.cblock {
+    text-align: center;
+    vertical-align: middle;
+}
+.circle {
+    border-radius: 75px;
+    height: 150px;
+    font-weight: bold;
+    width: 150px;
+    display: table;
+    margin: 10px auto;
+}
+.circle p {
+    vertical-align: middle;
+    display: table-cell;
+}
